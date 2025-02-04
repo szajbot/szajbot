@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @szajbot
-- 👀 I’m interested in games, IT, learning new things.
-- 🌱 I’m currently learning how to use scala
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me there is no way
+- 👀 I’m interested in games, IT and learning new things.
