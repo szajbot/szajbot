@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @szajbot
-- 👀 I’m interested in games, IT and learning new things.
+- 👋 Hi
